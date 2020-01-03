@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-27 13:41+0000\n"
+"POT-Creation-Date: 2020-01-02 16:54+0100\n"
 "PO-Revision-Date: 2019-11-22 11:56+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech\n"
@@ -34,15 +34,15 @@ msgstr "Procesor"
 msgid "CPU Shares"
 msgstr ""
 
-#: src/ContainerCommitModal.jsx:214 src/ContainerRemoveErrorModal.jsx:19
-#: src/ImageRemoveErrorModal.jsx:19 src/ImageRunModal.jsx:406
-#: src/ImageSearchModal.jsx:185
+#: src/ContainerRemoveErrorModal.jsx:19 src/ImageRemoveErrorModal.jsx:19
+#: src/ImageSearchModal.jsx:185 src/ContainerCommitModal.jsx:214
+#: src/ImageRunModal.jsx:406
 msgid "Cancel"
 msgstr "Storno"
 
 #: src/ContainerCommitModal.jsx:181 src/ContainerDetails.jsx:35
-#: src/Containers.jsx:221 src/ImageDetails.jsx:24 src/ImageRunModal.jsx:299
-#: src/ImageRunModal.jsx:303 src/ImageUsedBy.jsx:40
+#: src/ImageRunModal.jsx:299 src/ImageRunModal.jsx:303 src/Containers.jsx:221
+#: src/ImageUsedBy.jsx:40 src/ImageDetails.jsx:24
 msgid "Command"
 msgstr "Příkaz"
 
@@ -94,7 +94,7 @@ msgstr "Nedaří se připojit k tomuto kontejneru: $0"
 msgid "Could not open channel: $0"
 msgstr "Nedaří se otevřít kanál:$0"
 
-#: src/ContainerDetails.jsx:31 src/ImageDetails.jsx:26 src/Images.jsx:201
+#: src/Images.jsx:201 src/ContainerDetails.jsx:31 src/ImageDetails.jsx:26
 msgid "Created"
 msgstr "Vytvořeno"
 
@@ -110,7 +110,7 @@ msgstr "Smazat $0"
 msgid "Deleting a container will erase all data in it."
 msgstr "Smazání kontejneru smaže veškerá data v něm."
 
-#: src/Containers.jsx:118 src/Images.jsx:154
+#: src/Images.jsx:154 src/Containers.jsx:118
 msgid "Details"
 msgstr "Podrobnosti"
 
@@ -210,8 +210,7 @@ msgstr "Port hostitele"
 msgid "ID"
 msgstr "Identif."
 
-#: src/ContainerDetails.jsx:33 src/Containers.jsx:221
-#: src/ImageRunModal.jsx:283
+#: src/ContainerDetails.jsx:33 src/ImageRunModal.jsx:283 src/Containers.jsx:221
 msgid "Image"
 msgstr "Obraz"
 
@@ -219,7 +218,7 @@ msgstr "Obraz"
 msgid "Image Name"
 msgstr "Název obrazu"
 
-#: src/ImageSearchModal.jsx:147 src/Images.jsx:249
+#: src/Images.jsx:249 src/ImageSearchModal.jsx:147
 msgid "Images"
 msgstr "Obrazy"
 
@@ -255,8 +254,8 @@ msgstr "Zpráva"
 msgid "MiB"
 msgstr "MiB"
 
-#: src/Containers.jsx:221 src/ImageRunModal.jsx:288 src/ImageUsedBy.jsx:40
-#: src/Images.jsx:201
+#: src/Images.jsx:201 src/ImageRunModal.jsx:288 src/Containers.jsx:221
+#: src/ImageUsedBy.jsx:40
 msgid "Name"
 msgstr "Název"
 
@@ -292,7 +291,7 @@ msgstr "Žádné spuštěné kontejnery"
 msgid "On Build"
 msgstr "Při sestavení"
 
-#: src/Containers.jsx:221 src/Images.jsx:201
+#: src/Images.jsx:201 src/Containers.jsx:221
 msgid "Owner"
 msgstr "Vlastník"
 
@@ -320,8 +319,8 @@ msgstr "Podman kontejnery"
 msgid "Podman Service is Not Active"
 msgstr "Služba podman není aktivní"
 
-#: src/ContainerDetails.jsx:39 src/ImageDetails.jsx:30
-#: src/ImageRunModal.jsx:370
+#: src/ContainerDetails.jsx:39 src/ImageRunModal.jsx:370
+#: src/ImageDetails.jsx:30
 msgid "Ports"
 msgstr "Porty"
 
@@ -369,7 +368,7 @@ msgstr "Nastavit kontejner na proměnných prostředí"
 msgid "Size"
 msgstr "Velikost"
 
-#: src/Containers.jsx:145 src/app.jsx:444
+#: src/app.jsx:444 src/Containers.jsx:145
 msgid "Start"
 msgstr "Spustit"
 
@@ -397,7 +396,7 @@ msgstr "Systémová služba Podman je k dispozici také"
 msgid "TCP"
 msgstr "TCP"
 
-#: src/ContainerCommitModal.jsx:166 src/ImageSearchModal.jsx:181
+#: src/ImageSearchModal.jsx:181 src/ContainerCommitModal.jsx:166
 msgid "Tag"
 msgstr "Štítek"
 
@@ -459,7 +458,7 @@ msgstr "n/a"
 msgid "not available"
 msgstr "není k dispozici"
 
-#: src/Containers.jsx:114 src/Images.jsx:146
+#: src/Images.jsx:146 src/Containers.jsx:114
 msgid "system"
 msgstr "systém"
 

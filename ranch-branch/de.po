@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-27 13:41+0000\n"
+"POT-Creation-Date: 2020-01-02 16:54+0100\n"
 "PO-Revision-Date: 2019-10-30 09:23+0000\n"
 "Last-Translator: Martin Pitt <mpitt@redhat.com>\n"
 "Language-Team: German\n"
@@ -34,15 +34,15 @@ msgstr "CPU"
 msgid "CPU Shares"
 msgstr ""
 
-#: src/ContainerCommitModal.jsx:214 src/ContainerRemoveErrorModal.jsx:19
-#: src/ImageRemoveErrorModal.jsx:19 src/ImageRunModal.jsx:406
-#: src/ImageSearchModal.jsx:185
+#: src/ContainerRemoveErrorModal.jsx:19 src/ImageRemoveErrorModal.jsx:19
+#: src/ImageSearchModal.jsx:185 src/ContainerCommitModal.jsx:214
+#: src/ImageRunModal.jsx:406
 msgid "Cancel"
 msgstr "Abbruch"
 
 #: src/ContainerCommitModal.jsx:181 src/ContainerDetails.jsx:35
-#: src/Containers.jsx:221 src/ImageDetails.jsx:24 src/ImageRunModal.jsx:299
-#: src/ImageRunModal.jsx:303 src/ImageUsedBy.jsx:40
+#: src/ImageRunModal.jsx:299 src/ImageRunModal.jsx:303 src/Containers.jsx:221
+#: src/ImageUsedBy.jsx:40 src/ImageDetails.jsx:24
 msgid "Command"
 msgstr "Befehl"
 
@@ -94,7 +94,7 @@ msgstr "Konnte nicht mit diesem Container verbinden: $0"
 msgid "Could not open channel: $0"
 msgstr "Konnte keinen Kanal öffnen: $0"
 
-#: src/ContainerDetails.jsx:31 src/ImageDetails.jsx:26 src/Images.jsx:201
+#: src/Images.jsx:201 src/ContainerDetails.jsx:31 src/ImageDetails.jsx:26
 msgid "Created"
 msgstr "Erstellt"
 
@@ -110,7 +110,7 @@ msgstr "$0 löschen"
 msgid "Deleting a container will erase all data in it."
 msgstr "Beim Löschen des Containers werden alle Daten darin verloren gehen"
 
-#: src/Containers.jsx:118 src/Images.jsx:154
+#: src/Images.jsx:154 src/Containers.jsx:118
 msgid "Details"
 msgstr "Details"
 
@@ -210,8 +210,7 @@ msgstr ""
 msgid "ID"
 msgstr "ID"
 
-#: src/ContainerDetails.jsx:33 src/Containers.jsx:221
-#: src/ImageRunModal.jsx:283
+#: src/ContainerDetails.jsx:33 src/ImageRunModal.jsx:283 src/Containers.jsx:221
 msgid "Image"
 msgstr "Image"
 
@@ -219,7 +218,7 @@ msgstr "Image"
 msgid "Image Name"
 msgstr "Image-Name"
 
-#: src/ImageSearchModal.jsx:147 src/Images.jsx:249
+#: src/Images.jsx:249 src/ImageSearchModal.jsx:147
 msgid "Images"
 msgstr "Images"
 
@@ -255,8 +254,8 @@ msgstr "Nachricht"
 msgid "MiB"
 msgstr "MiB"
 
-#: src/Containers.jsx:221 src/ImageRunModal.jsx:288 src/ImageUsedBy.jsx:40
-#: src/Images.jsx:201
+#: src/Images.jsx:201 src/ImageRunModal.jsx:288 src/Containers.jsx:221
+#: src/ImageUsedBy.jsx:40
 msgid "Name"
 msgstr "Name"
 
@@ -292,7 +291,7 @@ msgstr "Keine laufenden Container"
 msgid "On Build"
 msgstr ""
 
-#: src/Containers.jsx:221 src/Images.jsx:201
+#: src/Images.jsx:201 src/Containers.jsx:221
 msgid "Owner"
 msgstr "Eigentümer"
 
@@ -320,8 +319,8 @@ msgstr "Podman-Container"
 msgid "Podman Service is Not Active"
 msgstr "Podman-Service ist nicht aktiv"
 
-#: src/ContainerDetails.jsx:39 src/ImageDetails.jsx:30
-#: src/ImageRunModal.jsx:370
+#: src/ContainerDetails.jsx:39 src/ImageRunModal.jsx:370
+#: src/ImageDetails.jsx:30
 msgid "Ports"
 msgstr "Ports"
 
@@ -369,7 +368,7 @@ msgstr ""
 msgid "Size"
 msgstr "Größe"
 
-#: src/Containers.jsx:145 src/app.jsx:444
+#: src/app.jsx:444 src/Containers.jsx:145
 msgid "Start"
 msgstr "Starten"
 
@@ -397,7 +396,7 @@ msgstr "System-Podman ist auch verfügbar"
 msgid "TCP"
 msgstr "TCP"
 
-#: src/ContainerCommitModal.jsx:166 src/ImageSearchModal.jsx:181
+#: src/ImageSearchModal.jsx:181 src/ContainerCommitModal.jsx:166
 msgid "Tag"
 msgstr "Etikett"
 
@@ -459,7 +458,7 @@ msgstr "n.v."
 msgid "not available"
 msgstr "nicht verfügbar"
 
-#: src/Containers.jsx:114 src/Images.jsx:146
+#: src/Images.jsx:146 src/Containers.jsx:114
 msgid "system"
 msgstr "System"
 

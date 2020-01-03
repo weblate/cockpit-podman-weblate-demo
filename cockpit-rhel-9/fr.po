@@ -1,34 +1,38 @@
-# Pavel Borecki <pavel.borecki@gmail.com>, 2019. #zanata
+# #-#-#-#-#  podman.js.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE_VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-02 16:54+0100\n"
-"PO-Revision-Date: 2019-11-22 11:56+0000\n"
-"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
-"Language-Team: Czech\n"
-"Language: cs\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Cockpit manifest2po\n"
 
 #: src/ImageDeleteModal.jsx:16
 msgid "Are you sure you want to delete this image?"
-msgstr "Opravdu chcete tento obraz smazat?"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:171 src/ImageDetails.jsx:28
 msgid "Author"
-msgstr "Autor"
+msgstr ""
 
 #: src/app.jsx:403
 msgid "Automatically start podman on boot"
-msgstr "Podman spouštět automaticky při zavádění systému"
+msgstr ""
 
 #: src/Containers.jsx:221 src/ImageUsedBy.jsx:40
 msgid "CPU"
-msgstr "Procesor"
+msgstr ""
 
 #: src/ImageRunModal.jsx:343
 msgid "CPU Shares"
@@ -38,430 +42,430 @@ msgstr ""
 #: src/ImageSearchModal.jsx:185 src/ContainerCommitModal.jsx:214
 #: src/ImageRunModal.jsx:406
 msgid "Cancel"
-msgstr "Storno"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:181 src/ContainerDetails.jsx:35
 #: src/ImageRunModal.jsx:299 src/ImageRunModal.jsx:303 src/Containers.jsx:221
 #: src/ImageUsedBy.jsx:40 src/ImageDetails.jsx:24
 msgid "Command"
-msgstr "Příkaz"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:215 src/Containers.jsx:139
 msgid "Commit"
-msgstr "Odeslat"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:206
 msgid "Commit Image"
-msgstr "Odeslat obraz"
+msgstr ""
 
 #: src/Containers.jsx:122
 msgid "Console"
-msgstr "Konzole"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:133 src/ImageRunModal.jsx:292
 msgid "Container Name"
-msgstr "Název kontejneru"
+msgstr ""
 
 #: src/ImageRunModal.jsx:266
 msgid "Container failed to be created"
-msgstr "Kontejner se nepodařilo vytvořit"
+msgstr ""
 
 #: src/ContainerRemoveErrorModal.jsx:16
 msgid "Container is currently running."
-msgstr "Kontejner je nyní spuštěný"
+msgstr ""
 
 #: src/ContainerTerminal.jsx:89
 msgid "Container is not running"
-msgstr "Kontejner není spuštěný"
+msgstr ""
 
 #: src/ImageRunModal.jsx:107
 msgid "Container path"
-msgstr "Popis umístění kontejneru"
+msgstr ""
 
 #: src/ImageRunModal.jsx:41
 msgid "Container port"
-msgstr "Port kontejneru"
+msgstr ""
 
 #: src/Containers.jsx:266
 msgid "Containers"
-msgstr "Kontejnery"
+msgstr ""
 
 #: src/ContainerTerminal.jsx:131
 msgid "Could not attach to this container: $0"
-msgstr "Nedaří se připojit k tomuto kontejneru: $0"
+msgstr ""
 
 #: src/ContainerTerminal.jsx:125
 msgid "Could not open channel: $0"
-msgstr "Nedaří se otevřít kanál:$0"
+msgstr ""
 
 #: src/Images.jsx:201 src/ContainerDetails.jsx:31 src/ImageDetails.jsx:26
 msgid "Created"
-msgstr "Vytvořeno"
+msgstr ""
 
 #: src/ContainerDeleteModal.jsx:20 src/ImageDeleteModal.jsx:20
 msgid "Delete"
-msgstr "Smazat"
+msgstr ""
 
 #: src/ImageDeleteModal.jsx:13
 msgid "Delete $0"
-msgstr "Smazat $0"
+msgstr ""
 
 #: src/ContainerDeleteModal.jsx:16
 msgid "Deleting a container will erase all data in it."
-msgstr "Smazání kontejneru smaže veškerá data v něm."
+msgstr ""
 
 #: src/Images.jsx:154 src/Containers.jsx:118
 msgid "Details"
-msgstr "Podrobnosti"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:188
 msgid "Download"
-msgstr "Stáhnout"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:121
 msgid "Download as:"
-msgstr "Stáhnout jako:"
+msgstr ""
 
 #: src/ImageDetails.jsx:22
 msgid "Entrypoint"
-msgstr "Vstupní bod"
+msgstr ""
 
 #: src/ImageRunModal.jsx:386
 msgid "Environment"
-msgstr "Prostředí"
+msgstr ""
 
 #: src/Images.jsx:74 src/Notification.jsx:30
 msgid "Error message"
-msgstr "Chybové hlášení"
+msgstr ""
 
 #: src/ContainerHeader.jsx:37
 msgid "Everything"
-msgstr "Vše"
+msgstr ""
 
 #: src/ContainerDetails.jsx:12
 msgid "Exited"
-msgstr "Skončilo"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:104
 msgid "Failed to commit container $0"
-msgstr "Nepodařilo se odeslat kontejner $0"
+msgstr ""
 
 #: src/Images.jsx:72
 msgid "Failed to download image $0:$1"
-msgstr "Nepodařilo se stáhnout obraz $0:$1"
+msgstr ""
 
 #: src/Containers.jsx:208
 msgid "Failed to force remove container $0"
-msgstr "Nepodařilo se vynutit odebrání kontejneru $0"
+msgstr ""
 
 #: src/Containers.jsx:187
 msgid "Failed to remove container $0"
-msgstr "Nepodařilo se odebrat kontejner $0"
+msgstr ""
 
 #: src/Containers.jsx:91
 msgid "Failed to restart container $0"
-msgstr "Nepodařilo se restartovat kontejner $0"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:89
 msgid "Failed to search for new images"
-msgstr "Nepodařilo se vyhledat nové obrazy"
+msgstr ""
 
 #: src/Containers.jsx:78
 msgid "Failed to start container $0"
-msgstr "Nepodařilo se spustit kontejner $0"
+msgstr ""
 
 #: src/Containers.jsx:69
 msgid "Failed to stop container $0"
-msgstr "Nepodařilo se spustit kontejner $0"
+msgstr ""
 
 #: src/ContainerRemoveErrorModal.jsx:20 src/ImageRemoveErrorModal.jsx:20
 msgid "Force Delete"
-msgstr "Vynutit smazání"
+msgstr ""
 
 #: src/Containers.jsx:153
 msgid "Force Restart"
-msgstr "Vynutit restart"
+msgstr ""
 
 #: src/Containers.jsx:157
 msgid "Force Stop"
-msgstr "Vynutit zastavení"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:140
 msgid "Format"
-msgstr "Formát"
+msgstr ""
 
 #: src/Images.jsx:212
 msgid "Get new image"
-msgstr "Získat nový obraz"
+msgstr ""
 
 #: src/ImageRunModal.jsx:335
 msgid "GiB"
-msgstr "GiB"
+msgstr ""
 
 #: src/ImageRunModal.jsx:102
 msgid "Host path"
-msgstr "Popis umístění hostitele"
+msgstr ""
 
 #: src/ImageRunModal.jsx:49
 msgid "Host port"
-msgstr "Port hostitele"
+msgstr ""
 
 #: src/ContainerDetails.jsx:29 src/ImageDetails.jsx:18
 msgid "ID"
-msgstr "Identif."
+msgstr ""
 
 #: src/ContainerDetails.jsx:33 src/ImageRunModal.jsx:283 src/Containers.jsx:221
 msgid "Image"
-msgstr "Obraz"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:161
 msgid "Image Name"
-msgstr "Název obrazu"
+msgstr ""
 
 #: src/Images.jsx:249 src/ImageSearchModal.jsx:147
 msgid "Images"
-msgstr "Obrazy"
+msgstr ""
 
 #: src/ContainerHeader.jsx:38
 msgid "Images and running containers"
-msgstr "Obrazy a spuštěné kontejnery"
+msgstr ""
 
 #: src/ImageRunModal.jsx:79
 msgid "Key"
-msgstr "Klíč"
+msgstr ""
 
 #: src/ImageRunModal.jsx:329
 msgid "KiB"
-msgstr "KiB"
+msgstr ""
 
 #: src/Containers.jsx:225 src/ImageUsedBy.jsx:53
 msgid "Loading..."
-msgstr "Načítání…"
+msgstr ""
 
 #: src/Containers.jsx:221 src/ImageUsedBy.jsx:40
 msgid "Memory"
-msgstr "Operační paměť"
+msgstr ""
 
 #: src/ImageRunModal.jsx:309
 msgid "Memory Limit"
-msgstr "Limit operační paměti"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:176
 msgid "Message"
-msgstr "Zpráva"
+msgstr ""
 
 #: src/ImageRunModal.jsx:332
 msgid "MiB"
-msgstr "MiB"
+msgstr ""
 
 #: src/Images.jsx:201 src/ImageRunModal.jsx:288 src/Containers.jsx:221
 #: src/ImageUsedBy.jsx:40
 msgid "Name"
-msgstr "Název"
+msgstr ""
 
 #: src/Containers.jsx:223
 msgid "No containers"
-msgstr "Žádné kontejnery"
+msgstr ""
 
 #: src/ImageUsedBy.jsx:41
 msgid "No containers are using this image"
-msgstr "Tento obraz není používán žádným kontejnerem"
+msgstr ""
 
 #: src/Containers.jsx:227
 msgid "No containers that match the current filter"
-msgstr "Stávajícímu filtru neodpovídají žádné kontejnery"
+msgstr ""
 
 #: src/Images.jsx:202
 msgid "No images"
-msgstr "Žádné obrazy"
+msgstr ""
 
 #: src/Images.jsx:206
 msgid "No images that match the current filter"
-msgstr "Žádné obrazy které by odpovídaly stávajícímu filtru"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:148
 msgid "No results for $0. Please retry another term."
-msgstr "Žádné výsledky vyhledání $0. Zkuste jiný pojem."
+msgstr ""
 
 #: src/Containers.jsx:229
 msgid "No running containers"
-msgstr "Žádné spuštěné kontejnery"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:194
 msgid "On Build"
-msgstr "Při sestavení"
+msgstr ""
 
 #: src/Images.jsx:201 src/Containers.jsx:221
 msgid "Owner"
-msgstr "Vlastník"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:186
 msgid "Pause"
-msgstr "Pozastavit"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:190
 msgid "Pause the container"
-msgstr "Pozastavit kontejner"
+msgstr ""
 
 #: src/ContainerDeleteModal.jsx:13
 msgid "Please confirm deletion of $0"
-msgstr "Potvrďte smazání $0"
+msgstr ""
 
 #: src/ContainerRemoveErrorModal.jsx:13 src/ImageRemoveErrorModal.jsx:13
 msgid "Please confirm forced deletion of $0"
-msgstr "Potvrďte vynucení smazání $0"
+msgstr ""
 
 #: src/index.html:20 src/manifest.json:0
 msgid "Podman Containers"
-msgstr "Podman kontejnery"
+msgstr ""
 
 #: src/app.jsx:396
 msgid "Podman Service is Not Active"
-msgstr "Služba podman není aktivní"
+msgstr ""
 
 #: src/ContainerDetails.jsx:39 src/ImageRunModal.jsx:370
 #: src/ImageDetails.jsx:30
 msgid "Ports"
-msgstr "Porty"
+msgstr ""
 
 #: src/Images.jsx:268
 msgid "Pulling"
-msgstr "Stahování"
+msgstr ""
 
 #: src/ImageRunModal.jsx:114
 msgid "ReadOnly"
-msgstr "PouzeProČtení"
+msgstr ""
 
 #: src/ImageRunModal.jsx:117
 msgid "ReadWrite"
-msgstr "ČetníZápis"
+msgstr ""
 
 #: src/Containers.jsx:152
 msgid "Restart"
-msgstr "Restart"
+msgstr ""
 
 #: src/ImageRunModal.jsx:409
 msgid "Run"
-msgstr "Spustit"
+msgstr ""
 
 #: src/ImageRunModal.jsx:398
 msgid "Run Image"
-msgstr "Spustit obraz"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:171
 msgid "Search Image"
-msgstr "Hledat obraz"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:138
 msgid "Search by name or description"
-msgstr "Hledat název nebo popis"
+msgstr ""
 
 #: src/Images.jsx:160
 msgid "Security"
-msgstr "Zabezpečení"
+msgstr ""
 
 #: src/ContainerCommitModal.jsx:198
 msgid "Set container on build variables"
-msgstr "Nastavit kontejner na proměnných prostředí"
+msgstr ""
 
 #: src/Images.jsx:201
 msgid "Size"
-msgstr "Velikost"
+msgstr ""
 
 #: src/app.jsx:444 src/Containers.jsx:145
 msgid "Start"
-msgstr "Spustit"
+msgstr ""
 
 #: src/app.jsx:410
 msgid "Start podman"
-msgstr "Spustit podman"
+msgstr ""
 
 #: src/ContainerDetails.jsx:37 src/Containers.jsx:221 src/ImageUsedBy.jsx:40
 msgid "State"
-msgstr "Stav"
+msgstr ""
 
 #: src/Containers.jsx:156
 msgid "Stop"
-msgstr "Zastavit"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:124
 msgid "System"
-msgstr "Systém"
+msgstr ""
 
 #: src/app.jsx:449
 msgid "System Podman service is also available"
-msgstr "Systémová služba Podman je k dispozici také"
+msgstr ""
 
 #: src/ImageRunModal.jsx:56
 msgid "TCP"
-msgstr "TCP"
+msgstr ""
 
 #: src/ImageSearchModal.jsx:181 src/ContainerCommitModal.jsx:166
 msgid "Tag"
-msgstr "Štítek"
+msgstr ""
 
 #: src/ImageDetails.jsx:20
 msgid "Tags"
-msgstr "Štítky"
+msgstr ""
 
 #: src/ImageSecurity.jsx:15
 msgid "The scan from $time ($type) found no vulnerabilities."
-msgstr "Sken z $time ($type) nenalezl žádné zranitelnosti."
+msgstr ""
 
 #: src/ContainerTerminal.jsx:127
 msgid "This version of the Web Console does not support a terminal."
-msgstr "Tato verze Web Console nepodporuje terminál."
+msgstr ""
 
 #: src/app.jsx:416
 msgid "Troubleshoot"
-msgstr "Řešení problémů"
+msgstr ""
 
 #: src/ContainerHeader.jsx:44
 msgid "Type to filter…"
-msgstr "Filtrujte psaním…"
+msgstr ""
 
 #: src/ImageRunModal.jsx:59
 msgid "UDP"
-msgstr "UDP"
+msgstr ""
 
 #: src/ContainerDetails.jsx:10
 msgid "Up since $0"
-msgstr "V chodu od $0"
+msgstr ""
 
 #: src/Images.jsx:169
 msgid "Used By"
-msgstr "Používáno"
+msgstr ""
 
 #: src/app.jsx:454
 msgid "User Podman service is also available"
-msgstr "Uživatelská služba Podman je také k dispozici"
+msgstr ""
 
 #: src/ImageRunModal.jsx:84
 msgid "Value"
-msgstr "Hodnota"
+msgstr ""
 
 #: src/ImageRunModal.jsx:378
 msgid "Volumes"
-msgstr "Svazky"
+msgstr ""
 
 #: src/ImageRunModal.jsx:362
 msgid "With terminal"
-msgstr "S terminálem"
+msgstr ""
 
 #: src/Containers.jsx:105 src/Containers.jsx:106 src/ImageUsedBy.jsx:13
 #: src/ImageUsedBy.jsx:14
 msgid "n/a"
-msgstr "n/a"
+msgstr ""
 
 #: src/Containers.jsx:105 src/Containers.jsx:106 src/ImageUsedBy.jsx:13
 #: src/ImageUsedBy.jsx:14
 msgid "not available"
-msgstr "není k dispozici"
+msgstr ""
 
 #: src/Images.jsx:146 src/Containers.jsx:114
 msgid "system"
-msgstr "systém"
+msgstr ""
 
 #: src/app.jsx:466 src/app.jsx:477
 msgid "user"
-msgstr "uživatel"
+msgstr ""
